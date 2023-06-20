@@ -15,5 +15,5 @@ Before running the script, make sure you have the following dependencies install
 1. Clone the repository:
 
    ```shell
-   git clone [https://github.com/abhichaudharii/immobilienscout24_scraper](https://github.com/abhichaudharii/immobilienscout24_scraper)
-  ```
+   git clone https://github.com/abhichaudharii/immobilienscout24_scraper
+   ```
